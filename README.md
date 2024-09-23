@@ -1,4 +1,4 @@
-# mmsync
+# mmcomp
 Snakemake workflow for yield-normalized (synchronized) comparative genome-centric metagenomics
 
 ## Workflow description
