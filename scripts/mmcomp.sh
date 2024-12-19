@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH --job-name=mmsync
+#SBATCH --job-name=mmcomp
 #SBATCH --output=job_%j_%x.out
 #SBATCH --error=job_%j_%x.err
 #SBATCH --partition=general
