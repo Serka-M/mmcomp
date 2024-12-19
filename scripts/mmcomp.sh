@@ -20,4 +20,4 @@ export TMPDIR=/path/to/tmp
 export SLURM_TMPDIR=/path/to/tmp
 
 # Main workflow
-snakemake --profile custom --executor slurm --default-resources slurm_partition={resources.slurm_partition} mem_mb={resources.mem_mb} runtime={resources.runtime} --software-deployment-method conda --cores 250 --jobs 20 --retries 4 -s mmsync.smk --configfile config.yaml --rerun-incomplete --nolock
+snakemake --profile custom --executor slurm --default-resources slurm_partition={resources.slurm_partition} mem_mb={resources.mem_mb} runtime={resources.runtime} --software-deployment-method conda --cores 250 --jobs 20 --retries 4 -s mmcomp.smk --configfile config.yaml --rerun-incomplete --nolock
