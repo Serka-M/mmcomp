@@ -1,5 +1,5 @@
 # mmcomp
-Snakemake workflow for yield-normalized (synchronized) comparative genome-centric metagenomics
+Snakemake workflow for yield-normalized comparative genome-centric metagenomics
 
 **Note:** at the moment, the workflow is only suitable for reproducing results from the [MFD-LR project](https://github.com/Serka-M/mfd_mags). A more generic and distributable version of the workflow is planned for a future release
 
