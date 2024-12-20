@@ -8,5 +8,5 @@ Snakemake workflow for yield-normalized (synchronized) comparative genome-centri
 
 ## Tentative usage
 * Download the repo and update the `config/config.yaml` file to point to the correct Conda environments, read datasets, and databases
-* Update the `mmcomp.sh` script to be compatible with the server and job scheduler set up
+* Update the `mmcomp.sh` script to be compatible with the server and job scheduler set up, as desired
 * It is recommended to run the workflow with multiple retries turned on, as each retry will be submitted with increased resource allocation
