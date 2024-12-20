@@ -7,4 +7,4 @@ Snakemake workflow for yield-normalized (synchronized) comparative genome-centri
 * Multiple bioinformatics tools are used in the analysis to correct for possible tool-related biases
 
 ## Tentative usage
-* Download the repo and update the 'config/config.yaml' file to point to the correct Conda environments, read datasets, and databases
+* Download the repo and update the "config/config.yaml" file to point to the correct Conda environments, read datasets, and databases
