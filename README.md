@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/856301767.svg)](https://doi.org/10.5281/zenodo.15782325)
+
 # mmcomp
 Snakemake workflow for yield-normalized comparative genome-centric metagenomics
 
